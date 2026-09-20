@@ -1,0 +1,11 @@
+{
+  "name": "awaazgram-root",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AwaazGram - Civic Collaboration Platform",
+  "scripts": {
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "build": "cd client && npm run build"
+  }
+}
